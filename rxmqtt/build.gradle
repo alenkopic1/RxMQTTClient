@@ -29,7 +29,7 @@ android {
 }
 
 ext {
-  pahoVersion = '1.1.1'
+  pahoVersion = '1.2.5'
   rxJavaVersion = '1.1.3'
   bouncycastleVersion = '1.50'
   junitVersion = '4.12'
